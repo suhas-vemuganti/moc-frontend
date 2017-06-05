@@ -2,9 +2,11 @@ Hello,
 I'm suhas.
 I'm enjoying coding
 
-Day-1 :-
-1) Downloaded Node and git
-2) Learnt how to create repository and make changes.
-3) learnt how to fork, push,pull from local to remote in git also how to create branches.
+## Day 1 :-
+- Downloaded Node and git
+- Learnt how to create repository and make changes.
+- Learnt how to fork
+- Learnt push from local to remote and pull from remote to local in git.
+- Learnt how to create branches.
 
 
