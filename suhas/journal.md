@@ -9,4 +9,9 @@ I'm enjoying coding
 - Learnt push from local to remote and pull from remote to local in git.
 - Learnt how to create branches.
 
+## Day 2:-
+- Completed learning Basic HTML and HTML5 from freeCodeCamp.
+
+## Day 3:-
+- Completed learning Basic CSS.
 
