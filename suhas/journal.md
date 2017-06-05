@@ -6,7 +6,7 @@ I'm enjoying coding
 - Downloaded Node and git
 - Learnt how to create repository and make changes.
 - Learnt how to fork
-- Learnt push from local to remote and pull from remote to local in git.
+- Learnt how to push from local to remote and pull from remote to local in git.
 - Learnt how to create branches.
 
 ## Day 2:-
